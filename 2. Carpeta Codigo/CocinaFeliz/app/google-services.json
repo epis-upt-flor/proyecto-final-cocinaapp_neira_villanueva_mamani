@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179128352655",
+    "project_id": "cocinafeliz-f3e57",
+    "storage_bucket": "cocinafeliz-f3e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179128352655:android:f088e33892484af64cd5fa",
+        "android_client_info": {
+          "package_name": "com.example.cocinafeliz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179128352655-ot2jcpaapvaplpa4gucafq34h51m9dih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6NtGu8HGq90Xe5YYWQBdX_A5JvxgPZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179128352655-9vn3anlvcvo7lkbq3desr171edsnokuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
